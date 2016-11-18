@@ -4,7 +4,7 @@ Código referente ao artigo escrito para AlgaWorks
 
 Saiba mais em:
 
-http://blog.algaworks.com
+http://blog.algaworks.com/primefaces-defaultcommand
 
 ### Rodando o projeto 
 
